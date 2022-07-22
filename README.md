@@ -22,6 +22,6 @@ Mainly programming on web frontend. In the beginning, I wrote ReactJS inside Ele
 
 Recently I am making extension for Chrome. They are:
 
-<a href="https://chrome.google.com/webstore/detail/markdown-previewer/pkafcdoobiajoadnphldaglkoadicmgd"><img src="assets/logos/markdown-previewer-100.png" alt="markdown previewer"/></a>
+<a href="https://chrome.google.com/webstore/detail/markdown-previewer/pkafcdoobiajoadnphldaglkoadicmgd"><img src="assets/logos/markdown-previewer.jpeg" alt="markdown previewer" style="width: 100px; height: 100px;"/></a>
 
 I also write at https://github.com/wangpin34/blog and https://dev.to/wangpin34.
