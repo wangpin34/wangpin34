@@ -25,3 +25,15 @@ Recently I am making extension for Chrome. They are:
 <a href="https://chrome.google.com/webstore/detail/markdown-previewer/pkafcdoobiajoadnphldaglkoadicmgd"><img src="assets/logos/markdown-previewer.jpeg" alt="markdown previewer" style="width: 100px; height: 100px;"/></a>
 
 I also write at https://github.com/wangpin34/blog and https://dev.to/wangpin34.
+
+### Coding Life
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wangpin34&count_private=true&show_icons=true&include_all_commits=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wangpin34&layout=compact&langs_count=6&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl)
+
+### Recent Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wangpin34&theme=vue)
+  
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=wangpin34&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
