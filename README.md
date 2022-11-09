@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 Hi, my name is Pengson Wang. 
 
-Mainly programming on web frontend. In the beginning, I wrote ReactJS inside Electron base App for the company hardware. In 2018, I started working on the cloud team and learned lots of other technologies other than Web stuff, including Golang, Dockerfile, and even a bit of K8s. But my faviourte always be the web part since I could easily make tools that helps people(may be change my mind someday).
+Mainly programming on the web front end. In 2018, I started working for a team that focuses on k8s resource management and then get touched with technologies other than frontend, including Golang, Docker, ElasticSearch, and a bit of Kubernetes. I even created a CICD service ([Tekton](https://tekton.dev/) as the base) which was written in Golang.
 
-Recently I am making extension for Chrome. They are:
+Recently I am making extensions for Chrome. They are:
 
 <a href="https://chrome.google.com/webstore/detail/markdown-previewer/pkafcdoobiajoadnphldaglkoadicmgd"><img src="assets/logos/markdown-previewer.jpeg" alt="markdown previewer" style="width: 100px; height: 100px;"/></a>
 
