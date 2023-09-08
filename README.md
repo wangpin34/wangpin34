@@ -20,11 +20,10 @@ Hi, my name is Penn Wang.
 
 Mainly programming on the web front end. In 2018, I started working for a team that focuses on k8s resource management and then get touched with technologies other than frontend, including Golang, Docker, ElasticSearch, and a bit of Kubernetes. I even created a CICD service ([Tekton](https://tekton.dev/) as the base) which was written in Golang.
 
-Recently I am making extensions for Chrome. They are:
+I write at https://github.com/wangpin34/blog and https://dev.to/wangpin34.
 
-<a href="https://chrome.google.com/webstore/detail/markdown-previewer/pkafcdoobiajoadnphldaglkoadicmgd"><img src="assets/logos/markdown-previewer.jpeg" alt="markdown previewer" style="width: 100px; height: 100px;"/></a>
-
-I also write at https://github.com/wangpin34/blog and https://dev.to/wangpin34.
+### Portfolio 
+[![](https://wangpin34.github.io/wxformat/logo192.png)](https://wangpin34.github.io/wxformat/)
 
 ### Coding Life
 
