@@ -23,7 +23,7 @@ Mainly programming on the web front end. In 2018, I started working for a team t
 I write at https://github.com/wangpin34/blog and https://dev.to/wangpin34.
 
 ### Portfolio 
-[![](https://wangpin34.github.io/wxformat/logo192.png)](https://wangpin34.github.io/wxformat/)
+[![](https://wangpin34.github.io/wxformat/logo192.png)](https://wxformat.netlify.app/)
 
 ### Coding Life
 
